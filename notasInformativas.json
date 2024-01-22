@@ -19,5 +19,9 @@
         "urlImgNota": "https://institutodelagua.chiapas.gob.mx/img//notas/22-01-24/1.jpeg",
         "fechaTitulo": "22 de Enero del 2024",
         "contenidoNota": "El Instituto Estatal del Agua, participó en el recorrido para la evaluación de los avances a los trabajos de Rehabilitación de la Planta de Tratamiento de Aguas Residuales en la cabecera municipal de Tonalá, Chiapas, en coordinación con la Secretaría de Protección Civil, la Comisión de Caminos e Infraestructura Hidráulica, Habitantes de la localidad de El Paredón y el H. Ayuntamiento de Tonalá, Chiapas."
+       
     }
-]
+] <div class="col-12 col-md-4">
+<a target="_blank" href="https://www.plataformadetransparencia.org.mx/web/guest/inicio"><img class="img-fluid img-fluid_" src="@/assets/images/transparencia.png"></a>
+<h5 class="txt-gris-strong text-center mt-3">Plataforma Nacional de Transparencia</h5>
+</div>
